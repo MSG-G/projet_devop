@@ -1,2 +1,2 @@
 echo "Bienvenue dans mons projet isi L3";
-echo "Bienvenue dans mons projet isi L3";
+echo "Ceci est mon premier projet en PHP";
